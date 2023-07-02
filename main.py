@@ -1,5 +1,5 @@
 #uvicorn main:app --reload
-#http://127.0.0.1:8000
+#git
 
 from fastapi import FastAPI
 from pydantic import BaseModel
