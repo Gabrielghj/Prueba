@@ -20,7 +20,7 @@ El proyecto utiliza técnicas de procesamiento del lenguaje natural (NLP) y apre
 
 + Se eliminaron las columnas que no serán utilizadas, video,imdb_id,adult,original_title,poster_path y homepage.
 
-  ***El ETL en google colab se puede obtener Aquí***
+  ***El ETL en google colab se puede obtener [Aquí](https://colab.research.google.com/drive/167wxE4UOzcRVj7LpceT9P91LmCrbITDV?usp=sharing)***
 
 ### EDA
 El análisis exploratorio de datos se lleva a cabo utilizando los cuadernos de google colab. Estos cuadernos contienen visualizaciones y estadísticas descriptivas que permiten comprender mejor los datos disponibles.
