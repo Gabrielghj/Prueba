@@ -20,7 +20,7 @@ El proyecto utiliza técnicas de procesamiento del lenguaje natural (NLP) y apre
 
 + Se eliminaron las columnas que no serán utilizadas, video,imdb_id,adult,original_title,poster_path y homepage.
 
-  El ETL en google colab se puede obtener Aquí
+  ***El ETL en google colab se puede obtener Aquí***
 
 ### EDA
 El análisis exploratorio de datos se lleva a cabo utilizando los cuadernos de google colab. Estos cuadernos contienen visualizaciones y estadísticas descriptivas que permiten comprender mejor los datos disponibles.
@@ -50,3 +50,11 @@ Algunas de las conclusiones del análisis exploratorio de datos son las siguient
 + El promedio del retorno de las películas es de aproximadamente 660,042.8 dólares.
 + El valor mínimo es 0, lo que sugiere que algunas películas no tuvieron retorno o no tienen información registrada.
 + El 25% de las películas no tuvieron retorno o no tienen información registrada.
+
+**Otras coclusiones:**
++ El 90.11% de las películas no pertenecen a una colección.
++ Hay una correlación positiva fuerte entre el presupuesto y los ingresos de las películas.
+
+ ***El EDA en google colab se puede obtener Aquí***
+
+###Deployment
