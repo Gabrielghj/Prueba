@@ -72,7 +72,17 @@ PELICULAS POR PAIS
 
 PELICULAS POR PRODUCTORA EXITOSA
 + Se ingresa la productora, Y entrega el revunue total y la cantidad de peliculas que realizo.
-                    
+  
+***Las funciones en google colab se pueden obtener Aquí***
 
+## SISTEMA DE RECOMENDACION
+Primero se realiza un filtrado por genero para reducir la cantidad de datos. Al introducir el titulo de la
+pelicula, se obtiene el genero y continuacion solo las peliculas que posean el mismo genero, se utilizarán para el recomendador
+El sistema de recomendación toma películas similares a una película en particular. Para lograr esto, se utiliza el concepto de puntajes de similitud entre películas, los cuales se calculan en base a las descripciones de trama de cada película. Con estos puntajes, se establece un umbral de similitud y recomienda películas que superen ese umbral.
+***El sistema de recomendación en google colab se pueden obtener Aquí***
 
+## DEPLOYMENT
+***El deployment de la API se visualiza Aquí***
+## VIDEO DEMO
+***El Enlace al video demostrativo se visualiza Aquí***
 
