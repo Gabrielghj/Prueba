@@ -19,3 +19,5 @@ El proyecto utiliza técnicas de procesamiento del lenguaje natural (NLP) y apre
 
 + Se eliminaron las columnas que no serán utilizadas, video,imdb_id,adult,original_title,poster_path y homepage.
 
+  El ETL se puede obtener Aquí
+
