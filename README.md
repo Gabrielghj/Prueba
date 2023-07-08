@@ -59,19 +59,19 @@ Algunas de las conclusiones del análisis exploratorio de datos son las siguient
 
 ## Endpoints
 PELICULAS POR IDIOMA
-Se ingresa un idioma (como están escritos en el dataset)y devuelve la cantidad de películas producidas en ese idioma.
++ Se ingresa un idioma (como están escritos en el dataset)y devuelve la cantidad de películas producidas en ese idioma.
                     
-**PELICULAS POR DURACION**
-Se ingresa una pelicula y devuelve la duracion y el año.
+PELICULAS POR DURACION
++ Se ingresa una pelicula y devuelve la duracion y el año.
 
-**FUNCION FRANQUICIA**
-Se ingresa la franquicia, retornando la cantidad de peliculas, ganancia total y promedio
+FUNCION FRANQUICIA
++ Se ingresa la franquicia, retornando la cantidad de peliculas, ganancia total y promedio
                     
-**FUNCION PELICULAS POR PAIS**
-Se ingresa un país (como están escritos en el dataset) y retorna la cantidad de peliculas producidas en el mismo.
+FUNCION PELICULAS POR PAIS
++ Se ingresa un país (como están escritos en el dataset) y retorna la cantidad de peliculas producidas en el mismo.
 
-**PELICULAS POR PRODUCTORA EXITOSA**
-Se ingresa la productora, Y entrega el revunue total y la cantidad de peliculas que realizo.
+PELICULAS POR PRODUCTORA EXITOSA
++ Se ingresa la productora, Y entrega el revunue total y la cantidad de peliculas que realizo.
                     
 
 
