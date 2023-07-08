@@ -1,4 +1,7 @@
 # PROYECTO INDIVIDUAL Nº1
+![image](https://github.com/Gabrielghj/Prueba/assets/94406302/4567e222-80b3-43c7-adfb-ad0ac3a45eee)
+
+
 ## Proyecto MLOps Engineer: 
 >***Recomendación de Contenido en Plataformas de Streaming***
 
