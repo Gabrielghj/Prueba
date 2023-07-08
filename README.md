@@ -1,6 +1,9 @@
-# PROYECTO INDIVIDUAL Nº1 
-_Proyecto de MLOps Engineer con datos de plataformas streaming y modelo de recomendación basado en ratings._
+# PROYECTO INDIVIDUAL Nº1
+## Proyecto MLOps Engineer: 
+_Recomendación de Contenido en_
+_Plataformas de Streaming_
 
 
 ## Descripción del proyecto
+
 
