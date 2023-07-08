@@ -3,11 +3,10 @@
 ***Recomendación de Contenido en Plataformas de Streaming***
 
 
-## Descripción del proyecto
-El proyecto utiliza técnicas de procesamiento del lenguaje natural (NLP) y aprendizaje automático para analizar la información de los usuarios y los datos del contenido disponible en las plataformas de streaming. A partir de estos datos, se construye un modelo de recomendación que sugiere contenido específico para cada usuario.
+## Descripción del proyectoEl proyecto utiliza técnicas de procesamiento del lenguaje natural (NLP) y aprendizaje automático para analizar la información de los usuarios y los datos del contenido disponible en las plataformas de streaming. A partir de estos datos, se construye un modelo de recomendación que sugiere contenido específico para cada usuario.
 ## Características del Repositorio
 ### ETL
-Algunos campos, como belongs_to_collection, production_companies y otros (ver diccionario de datos) están anidados, esto es o bien tienen un diccionario o una lista como valores en cada fila, ¡deberán desanidarlos para poder y unirlos al dataset de nuevo hacer alguna de las consultas de la API! O bien buscar la manera de acceder a esos datos sin desanidarlos.
++ Algunos campos, como belongs_to_collection, production_companies y otros (ver diccionario de datos) están anidados, esto es o bien tienen un diccionario o una lista como valores en cada fila, ¡deberán desanidarlos para poder y unirlos al dataset de nuevo hacer alguna de las consultas de la API! O bien buscar la manera de acceder a esos datos sin desanidarlos.
 
 Los valores nulos de los campos revenue, budget deben ser rellenados por el número 0.
 
