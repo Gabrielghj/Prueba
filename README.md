@@ -64,10 +64,10 @@ PELICULAS POR IDIOMA
 PELICULAS POR DURACION
 + Se ingresa una pelicula y devuelve la duracion y el año.
 
-FUNCION FRANQUICIA
+PELICULAS POR FRANQUICIA
 + Se ingresa la franquicia, retornando la cantidad de peliculas, ganancia total y promedio
                     
-FUNCION PELICULAS POR PAIS
+PELICULAS POR PAIS
 + Se ingresa un país (como están escritos en el dataset) y retorna la cantidad de peliculas producidas en el mismo.
 
 PELICULAS POR PRODUCTORA EXITOSA
