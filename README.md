@@ -87,7 +87,7 @@ El sistema de recomendación toma películas similares a una película en partic
 En el sistema de recomendación, se ingresa el nombre de una película y recomienda las similares en una lista de 5 valores.
 
 + def recomendacion(title: str):
-***El sistema de recomendación en google colab se pueden obtener Aquí***
+ ***El sistema de recomendación en google colab se pueden obtener Aquí***
 
 ## DEPLOYMENT
 ***El deployment de la API se visualiza Aquí***
