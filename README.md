@@ -1,4 +1,3 @@
-# PROYECTO INDIVIDUAL Nº1
 <h1 align="center"> PROYECTO INDIVIDUAL Nº1 </h1>
 
 
