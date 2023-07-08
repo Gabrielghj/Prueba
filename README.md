@@ -19,5 +19,33 @@ El proyecto utiliza técnicas de procesamiento del lenguaje natural (NLP) y apre
 
 + Se eliminaron las columnas que no serán utilizadas, video,imdb_id,adult,original_title,poster_path y homepage.
 
-  El ETL se puede obtener Aquí
+  El ETL en google colab se puede obtener Aquí
 
+### EDA
+El análisis exploratorio de datos se lleva a cabo utilizando los cuadernos de google colab. Estos cuadernos contienen visualizaciones y estadísticas descriptivas que permiten comprender mejor los datos disponibles.
+
+Algunas de las conclusiones del análisis exploratorio de datos son las siguientes:
+
+**Budget (Presupuesto):**
++ El promedio del presupuesto de las películas es de aproximadamente 4.2 millones de dólares.
++ Hay una gran variabilidad en los presupuestos de las películas.
++ El 25% de las películas tienen un presupuesto desconocido o no tienen presupuesto registrado
+
+**Revenue (Ingresos):**
++ El promedio de los ingresos de las películas es de aproximadamente 11.2 millones de dólares.
++ Hay una gran variabilidad en los ingresos de las películas.
++ El 25% de las películas  no generaron ingresos o no tienen información registrada.
+
+**Runtime (Duración):**
++ La duración promedio de las películas es de aproximadamente 94 minutos.
++ El 50% de las películas tienen una duración de 95 minutos.
+
+**Vote Average (Calificación promedio):**
++ La calificación promedio de las películas es de aproximadamente 5.6.
++ Hay una variabilidad moderada en las calificaciones de las películas.
++ El 25% de las películas tienen una calificación de 5.
+
+**Return (Retorno):**
++ El promedio del retorno de las películas es de aproximadamente 660,042.8 dólares.
++ El valor mínimo es 0, lo que sugiere que algunas películas no tuvieron retorno o no tienen información registrada.
++ El 25% de las películas no tuvieron retorno o no tienen información registrada.
