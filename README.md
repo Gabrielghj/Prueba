@@ -58,7 +58,7 @@ Algunas de las conclusiones del análisis exploratorio de datos son las siguient
  ***El EDA en google colab se puede obtener Aquí***
 
 ## Endpoints
-**PELICULAS POR IDIOMA**
+PELICULAS POR IDIOMA
 Se ingresa un idioma (como están escritos en el dataset)y devuelve la cantidad de películas producidas en ese idioma.
                     
 **PELICULAS POR DURACION**
