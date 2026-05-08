@@ -1,0 +1,20 @@
+
+100 horas de lecciones de AntiGravity en 47 minutos
+https://www.youtube.com/watch?v=T5LHXiTncp0
+
+Agentes de IA en 30 Minutos - Curso Completo de Principiante a Experto
+https://www.youtube.com/watch?v=nU4aONpAK0g
+
+La IA de Código Abierto desbloquea TODO: PRIVADA, GRATIS y SIN Límites
+https://www.youtube.com/watch?v=a-i65-YrwMk
+
+
+La IA que crea Videos GRATIS, ILIMITADOS Y SIN CENSURA
+https://www.youtube.com/watch?v=sI2kw-Le3yE
+
+
+lista = [1,2,3,5,7,9]
+i = 0
+while i < len(lista):
+	print(lista[i])
+
